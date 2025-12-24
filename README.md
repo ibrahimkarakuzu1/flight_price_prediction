@@ -19,5 +19,4 @@ Proje **Python** dili ile geliştirilmiş olup aşağıdaki kütüphaneler kulla
 ml_project3/
 ├── app.py              # Tahminleme yapan ana uygulama dosyası
 ├── model.pkl           # Eğitilmiş Lineer Regresyon modeli
-├── requirements.txt    # Gerekli Python kütüphaneleri
 └── README.md           # Proje dokümantasyonu
